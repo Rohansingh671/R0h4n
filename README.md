@@ -60,10 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohansingh671&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohansingh671&theme=tokyonight" />
-</p>
-
 ---
 
 ### 😄 Random Dev Joke:
