@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">Developer | Hacker | Innovator | Founder of Haitomns Groups 🚀</h3>
+<h3 align="center">Dreamer | Hacker | Innovator | Developer of Haitomns Groups 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&width=435&lines=Turning+Ideas+Into+Reality!;Building+Apps+For+Future.;Passionate+Developer+%F0%9F%92%BB;Hacker+Mindset+%F0%9F%92%AA;Lifelong+Learner+%F0%9F%8E%93" alt="Typing SVG" />
