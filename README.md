@@ -53,12 +53,10 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohansingh671&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohansingh671&show_icons=true&theme=tokyonight" alt="stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohansingh671&theme=tokyonight" alt="streak" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohansingh671&theme=tokyonight" />
-</p>
 
 ---
 
